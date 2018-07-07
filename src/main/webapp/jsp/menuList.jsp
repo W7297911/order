@@ -42,7 +42,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>主菜单</title>
+		<title>韩欢欢的主菜单</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<!-- basic styles -->
 		<%@ include file="common/commonStyle.jsp"%>
@@ -82,7 +82,7 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="icon-dashboard"></i>
-								<a href="#">主菜单</a>
+								<a href="#">韩欢欢的主菜单</a>
 							</li>
 						</ul><!-- .breadcrumb -->
 
