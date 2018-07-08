@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    韩欢欢家常菜
+                    韩欢欢和王亚飞家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
